@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  cocoon:
+  - apiVersion: v2
+    created: "2024-10-14T09:46:26.841764889Z"
+    description: A Helm chart to be able to deploy simple manifests in K8s.
+    digest: 133e9af29b7bda6560f4c7b135a67231f39002ad28884cf4dd05d5a718c6011a
+    name: cocoon
+    type: application
+    urls:
+    - https://github.com/ozoneapi/helm-manifest-cocoon/releases/download/cocoon-0.1.0/cocoon-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-10-14T09:46:26.841792701Z"
