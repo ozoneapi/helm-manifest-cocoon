@@ -4,4 +4,4 @@ description: A Helm chart to be able to deploy simple manifests in K8s.
 
 type: application
 
-version: 0.1.0
+version: 0.2.0
